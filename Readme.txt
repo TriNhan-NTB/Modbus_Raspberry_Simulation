@@ -1,5 +1,5 @@
 Modbus COM1 <==> COM2
-UART COM3 <==> COM4
+Giao tiếp máy tính COM3 <==> COM4
 
 copy main.txt paste proteus complier
 
