@@ -1,0 +1,13 @@
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.csprojAssemblyReference.cache
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.Form1.resources
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.Properties.Resources.resources
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.csproj.GenerateResource.cache
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.csproj.CoreCompileInputs.cache
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\bin\Debug\COM.exe.config
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\bin\Debug\COM.exe
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\bin\Debug\COM.pdb
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.exe
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.pdb
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\BK\DLDKMT\Tieu_Luan\COM\COM\obj\Debug\COM.csproj.CopyComplete
